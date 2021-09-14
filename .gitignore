@@ -5,5 +5,4 @@ node_modules/
 npm-debug.*
 example/react-native-keyboard-accessory
 
-build
 .vscode
